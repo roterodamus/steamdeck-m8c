@@ -44,6 +44,7 @@ This repository contains simple scripts for installing m8c on the Steam Deck.
    ```bash
    ./steamdeck-audiofix.sh
    ```
+7. **Reboot. All done!**
 
 
 ## A very special thanks to:
