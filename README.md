@@ -46,7 +46,10 @@ This repository contains simple scripts for installing m8c on the Steam Deck.
    ```
 7. **Reboot. All done!**
 
-
+## notes
+- You can run the scripts individualy if needed. To update to the latest verion of m8c, of if an update for SteamOs breaks libserialport.
+- The Audio Fix script might be able to fix hdmi audio problems too.
+  
 ## A very special thanks to:
 
 - Trash80 - [Dirtywave](https://dirtywave.com/)
