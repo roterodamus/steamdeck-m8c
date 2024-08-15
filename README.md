@@ -49,12 +49,12 @@ This repository contains simple scripts for installing m8c on the Steam Deck.
 ## **Post installation**
 > [!TIP]
 > I have uploaded a community controller layout. Search for it under **m8c** or **roterodamus**.
-- you can add m8c to steam as a **non-Steam** game so you can launch it from **Gaming mode**.
+- You can add m8c to steam as a **non-Steam** game so you can launch it from **Gaming mode**.
 - The default controls in **Gaming Mode** don't work, make sure you bind the controls to keyboard keys **A, S, Z, X** and the **arrow-keys**.
 
 
 ## notes
-- You can run the scripts individualy if needed. To update to the latest verion of m8c, of if an update for SteamOs breaks libserialport.
+- You can run the scripts individually if needed. To update to the latest version of m8c, of if an update for SteamOs breaks libserialport.
 - The Audio Fix script might be able to fix hdmi audio problems too.
   
 ## A very special thanks to:
