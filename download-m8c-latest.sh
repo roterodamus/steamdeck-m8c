@@ -22,7 +22,7 @@ curl -L -o m8c_latest_linux.zip "$DOWNLOAD_URL"
 
 # Unzip the downloaded file
 echo "Unzipping the downloaded file..."
-unzip m8c_latest_linux.zip
+unzip -o m8c_latest_linux.zip
 
 # Clean up
 echo "Cleaning up..."
