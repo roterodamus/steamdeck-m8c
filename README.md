@@ -49,7 +49,7 @@ This repository contains simple scripts for installing m8c on the Steam Deck.
 ## **Post installation**
 > [!TIP]
 > I have uploaded a community controller layout. Search for it under **m8c** or **roterodamus**.
-- you can add m8c to steam as a non-Steam game so you can launch it from **Gaming mode**.
+- you can add m8c to steam as a **non-Steam** game so you can launch it from **Gaming mode**.
 - The default controls in **Gaming Mode** don't work, make sure you bind the controls to keyboard keys **A, S, Z, X** and the **arrow-keys**.
 
 
