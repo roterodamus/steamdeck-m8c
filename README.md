@@ -4,8 +4,8 @@ This repository contains simple scripts for installing m8c on the Steam Deck.
 
 ## Check if Audio Fix is Needed
 
-1. In Gaming Mode, navigate to **Settings** > **Audio** and select **Speakers** as the **Output Device** (not **Default**)
-2. Make sure **Enable UI Sounds** is enabled.
+1. In **Gaming Mode**, navigate to **Settings** > **Audio** and select **Speakers** as the **Output Device** (not **Default**)
+2. Make sure **Enable UI Sounds** is enabled, and your volume is up.
 3. Move around in the menu.
 4. If you still hear sound, you can skip step 6 of the installation instructions.
 
