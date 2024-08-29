@@ -5,10 +5,10 @@ mkdir -p ~/.local/share/m8c
 cp config.ini ~/.local/share/m8c/
 
 # Set the GitHub repository URL
-REPO_URL="https://api.github.com/repos/laamaa/m8c/releases/latest"
+REPO_URL="https://api.github.com/repos/laamaa/m8c/releases"
 
-# Get the download URL for the latest Linux release
-DOWNLOAD_URL=$(curl -s $REPO_URL | grep "browser_download_url.*linux" | cut -d '"' -f 4)
+# Get all releases and find the latest Linux release
+DOWNLOAD_URL=$(curl -s $REPO_URL | grep "browser_download_url.*linux" | cut -d '"' -f 4 | head -n 1)
 
 # Check if the download URL was found
 if [ -z "$DOWNLOAD_URL" ]; then
